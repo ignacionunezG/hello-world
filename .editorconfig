@@ -12,3 +12,5 @@ trim_trailing_whitespace = true
 [*.html,*.xml,*.java]
 indent_style = space
 indent_size = 4
+[credential]
+    interactive = always
